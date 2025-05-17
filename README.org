@@ -1,0 +1,21 @@
+#+TITLE: goexec
+#+AUTHOR: Alejandro Sajaroff
+#+DATE: <2025-05-17>
+#+OPTIONS: toc:2
+
+Compiles resources about observability.
+
+#+BEGIN_SRC bash
+make
+#+END_SRC
+
+* Install
+To build or install the utility, run:
+
+#+BEGIN_SRC bash
+  make
+  sudo make install
+#+END_SRC
+
+* Contributing
+Contributions are welcome! Please open an issue or submit a pull request.
